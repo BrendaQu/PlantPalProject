@@ -13,14 +13,14 @@ Prototype used in Video | https://www.figma.com/file/JUAZeO1Rwqx1IvIUh4UuOR3j/Pl
 
 # Contacts
 
-**Brenda Quach**
- Environmental Engineering 
- University of Colorado Boulder
- email: Brenda.Quach@colorado.edu
+**Brenda Quach** <br/>
+ Environmental Engineering <br/>
+ University of Colorado Boulder <br/>
+ email: Brenda.Quach@colorado.edu <br/>
  
- **Victoria Orta**
- Computer Science 
- University of Colorado Boulder
- email: Victoria.Orta@colorado.edu
+ **Victoria Orta** <br/>
+ Computer Science <br/>
+ University of Colorado Boulder <br/>
+ email: Victoria.Orta@colorado.edu <br/>
 
 
