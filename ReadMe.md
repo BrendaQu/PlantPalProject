@@ -3,7 +3,7 @@
 This is a project for CSCI 3002. PlantPal is an plant care reminder app. It sents you notifications to water your plant. You can earn rewards and follow your friends. This is a prototype for the project. 
 
 # Gallery
-![Image]('Images/Notification.jpg')
+![Image](https://github.com/BrendaQu/PlantPalProject/blob/master/Images/Notification.jpg)
 
 
 # Figma Links
