@@ -2,6 +2,8 @@
 
 This is a project for CSCI 3002. PlantPal is an plant care reminder app. It sents you notifications to water your plant. You can earn rewards and follow your friends. This is a prototype for the project. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UGlTf4WsuJk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 # Gallery
 ![Notifiation](/Images/Notification.jpg)
 ![SetUpPage](/Images/SetUp.jpg)
@@ -10,8 +12,6 @@ This is a project for CSCI 3002. PlantPal is an plant care reminder app. It sent
 ![Stats](/Images/Stats.jpg)
 ![AwardPage](/Images/Award.jpg)
 
-# Video Link
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UGlTf4WsuJk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # Process Documentation
 
