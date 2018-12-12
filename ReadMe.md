@@ -6,7 +6,7 @@ This is a project for CSCI 3002. PlantPal is an plant care reminder app. It sent
 
 Type | Links
 ---------- | ----------
-Prototype A | https://www.figma.com/file/JUAZeO1Rwqx1IvIUh4UuOR3j/PlantPal%3A-Plant-Care-Reminder-App?node-id=1%3A4 
+Prototype A | ( https://www.figma.com/file/JUAZeO1Rwqx1IvIUh4UuOR3j/PlantPal%3A-Plant-Care-Reminder-App?node-id=1%3A4 )
 Prototype B | https://www.figma.com/file/JUAZeO1Rwqx1IvIUh4UuOR3j/PlantPal%3A-Plant-Care-Reminder-App?node-id=11%3A2
 Final Prototype | https://www.figma.com/file/JUAZeO1Rwqx1IvIUh4UuOR3j/PlantPal%3A-Plant-Care-Reminder-App?node-id=254%3A122
 Prototype used in Video | https://www.figma.com/file/JUAZeO1Rwqx1IvIUh4UuOR3j/PlantPal%3A-Plant-Care-Reminder-App?node-id=295%3A253
