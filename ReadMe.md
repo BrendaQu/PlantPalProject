@@ -4,11 +4,11 @@ This is a project for CSCI 3002. PlantPal is an plant care reminder app. It sent
 
 # Gallery
 ![Notifiation](/Images/Notification.jpg)
-![SetUpPage](https://github.com/BrendaQu/PlantPalProject/blob/master/Images/SetUp.jpg)
-![HomePage](https://github.com/BrendaQu/PlantPalProject/blob/master/Images/Home.jpg)
-![Following](https://github.com/BrendaQu/PlantPalProject/blob/master/Images/Follow.jpg)
-![Stats](https://github.com/BrendaQu/PlantPalProject/blob/master/Images/Stats.jpg)
-![AwardPage](https://github.com/BrendaQu/PlantPalProject/blob/master/Images/Award.jpg)
+![SetUpPage](/Images/SetUp.jpg)
+![HomePage](/Images/Home.jpg)
+![Following](/Images/Follow.jpg)
+![Stats](/Images/Stats.jpg)
+![AwardPage](/Images/Award.jpg)
 
 # Video Link
 https://www.youtube.com/watch?v=UGlTf4WsuJk&feature=youtu.be
