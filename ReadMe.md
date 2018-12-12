@@ -9,7 +9,7 @@ This is a project for CSCI 3002. PlantPal is an plant care reminder app. It sent
 # Gallery
 ![Notifiation](/Images/Notification.jpg)
 ![SetUpPage](/Images/SetUp.jpg)
-![HomePage](/Images/Home.jpg)
+![HomePage](/Images/HomePage.jpg)
 ![Following](/Images/Follow.jpg)
 ![Stats](/Images/Stats.jpg)
 ![AwardPage](/Images/Awards.jpg)
