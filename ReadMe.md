@@ -5,8 +5,13 @@ This is a project for CSCI 3002. PlantPal is an plant care reminder app. It sent
 # Contacts
 
 **Brenda Quach**
- Environmental Engineering
+ Environmental Engineering 
  University of Colorado Boulder
  email: Brenda.Quach@colorado.edu
+ 
+ **Victoria Orta**
+ Computer Science 
+ University of Colorado Boulder
+ email: Victoria.Orta@colorado.edu
 
 
