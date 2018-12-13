@@ -7,17 +7,17 @@ This is a project for CSCI 3002. PlantPal is an plant care reminder app. It sent
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UGlTf4WsuJk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # Gallery
-![Notifiation](/Images/Notification.jpg)
+![Notifiation](/Images/Notification.jpg) <br/>
 Push Notifications <br/>
-![SetUpPage](/Images/SetUp.jpg)
+![SetUpPage](/Images/SetUp.jpg) <br/>
 Set Up Time to Water Your Plants <br/>
-![HomePage](/Images/HomePage.jpg)
+![HomePage](/Images/HomePage.jpg) <br/>
 Home Page <br/>
-![Stats](/Images/Stats.jpg)
+![Stats](/Images/Stats.jpg) <br/>
 Check the last time you water your plant <br/>
-![Following](/Images/Follow.jpg)
+![Following](/Images/Follow.jpg) <br/>
 Follow your friends <br/>
-![AwardPage](/Images/Awards.jpg)
+![AwardPage](/Images/Awards.jpg) <br/>
 Earn Awards <br/>
 
 # Process Documentation
