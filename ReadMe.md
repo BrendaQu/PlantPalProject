@@ -14,7 +14,7 @@ Set Up Reminders: You can set up times that will work with your schedule for the
 ![HomePage](/Images/HomePage.jpg) <br/>
 Home Page: You can check updates from people you follow and like their plant photos.  <br/> <br/>
 ![Stats](/Images/Stats.jpg) <br/>
-Statistics Tab: You can see when the last time you water your plants, add a new plant, check your login streak, and see how many followers you have. <br/> <br/>
+Statistics Tab: You can see when was the last time you water your plants, add a new plant, check your login streak, and see how many followers you have. <br/> <br/>
 ![Following](/Images/Follow.jpg) <br/> 
 Follow Your Friends: You can find your friends on this application and follow them to recieve updates from them. <br/> <br/>
 ![AwardPage](/Images/Awards.jpg) <br/>
