@@ -1,23 +1,24 @@
 # PlantPal Project
-This is a project for CSCI 3002. PlantPal is a plant care reminder app that sents out notifications for you to water your plant. You can also earn awards and follow your friends. This contains a prototype for the project.
+This is a project for CSCI 3002. PlantPal is a plant care reminder application that sents out notifications for you to water your plant. You can also earn awards and follow your friends. This contains a prototype for the project.
 
 # Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UGlTf4WsuJk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+
 # Gallery
 ![Notifiation](/Images/Notification.jpg) <br/>
-Push Notifications <br/> <br/>
+Push Notifications: You will recieve a push notifiction when it is time to water your plant(s). <br/> <br/>
 ![SetUpPage](/Images/SetUp.jpg) <br/>
-Set Up Reminders to Water Your Plants <br/> <br/>
+Set Up Reminders: You can set up times that will work with your schedule for the application to remind you to water your plant. You can set up reminders for multiple plants.   <br/> <br/>
 ![HomePage](/Images/HomePage.jpg) <br/>
-Home Page <br/> <br/>
+Home Page: You can check updates from people you follow and like their plant photos.  <br/> <br/>
 ![Stats](/Images/Stats.jpg) <br/>
-Check the Last Time You Water Your Plant <br/> <br/>
+Statistics Tab: You can see when the last time you water your plants, add a new plant, check your login streak, and see how many followers you have. <br/> <br/>
 ![Following](/Images/Follow.jpg) <br/> 
-Follow Your Friends <br/> <br/>
+Follow Your Friends: You can find your friends on this application and follow them to recieve updates from them. <br/> <br/>
 ![AwardPage](/Images/Awards.jpg) <br/>
-Earn Awards <br/> <br/>
+Earn Awards: By logging in often you can gain points to save up towards a coupon reward.  <br/> <br/>
 
 # Process Documentation
 
